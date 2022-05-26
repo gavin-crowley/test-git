@@ -1,2 +1,0 @@
-text 2 start
-text 2 edit 1
